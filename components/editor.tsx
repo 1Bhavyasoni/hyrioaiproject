@@ -40,7 +40,6 @@ export function Editor() {
                 className="min-h-[200px] p-4 focus:outline-none"
                 contentEditable
                 onInput={handleContentChange}
-                placeholder="What do you want to share?"
               />
             </div>
           </div>
